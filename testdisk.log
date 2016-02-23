@@ -1,0 +1,72 @@
+
+
+Wed Jan  6 23:22:57 2016
+Command line: TestDisk
+
+TestDisk 7.0, Data Recovery Utility, April 2015
+Christophe GRENIER <grenier@cgsecurity.org>
+http://www.cgsecurity.org
+OS: Linux, kernel 4.2.8-300.fc23.x86_64 (#1 SMP Tue Dec 15 16:49:06 UTC 2015) x86_64
+Compiler: GCC 5.1
+Compilation date: 2015-06-19T03:55:42
+ext2fs lib: 1.42.13, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: 20140608, curses lib: ncurses 5.9
+/dev/sda: LBA, LBA48, DCO support
+/dev/sda: size       488397168 sectors
+/dev/sda: user_max   488397168 sectors
+/dev/sda: dco        488397168 sectors
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+/dev/mapper/fedora00-home: LBA, LBA48, DCO support
+/dev/mapper/fedora00-home: size       177348608 sectors
+/dev/mapper/fedora00-home: user_max   488397168 sectors
+/dev/mapper/fedora00-home: dco        488397168 sectors
+/dev/mapper/fedora00-root: LBA, LBA48, DCO support
+/dev/mapper/fedora00-root: size       104857600 sectors
+/dev/mapper/fedora00-root: user_max   488397168 sectors
+/dev/mapper/fedora00-root: dco        488397168 sectors
+/dev/mapper/fedora00-swap: LBA, LBA48, DCO support
+/dev/mapper/fedora00-swap: size       7864320 sectors
+/dev/mapper/fedora00-swap: user_max   488397168 sectors
+/dev/mapper/fedora00-swap: dco        488397168 sectors
+/dev/mapper/fedora-root00: LBA, LBA48, DCO support
+/dev/mapper/fedora-root00: size       195313664 sectors
+/dev/mapper/fedora-root00: user_max   488397168 sectors
+/dev/mapper/fedora-root00: dco        488397168 sectors
+/dev/mapper/fedora-swap: LBA, LBA48, DCO support
+/dev/mapper/fedora-swap: size       1957888 sectors
+/dev/mapper/fedora-swap: user_max   488397168 sectors
+/dev/mapper/fedora-swap: dco        488397168 sectors
+/dev/dm-0: LBA, LBA48, DCO support
+/dev/dm-0: size       104857600 sectors
+/dev/dm-0: user_max   488397168 sectors
+/dev/dm-0: dco        488397168 sectors
+/dev/dm-1: LBA, LBA48, DCO support
+/dev/dm-1: size       1957888 sectors
+/dev/dm-1: user_max   488397168 sectors
+/dev/dm-1: dco        488397168 sectors
+/dev/dm-2: LBA, LBA48, DCO support
+/dev/dm-2: size       7864320 sectors
+/dev/dm-2: user_max   488397168 sectors
+/dev/dm-2: dco        488397168 sectors
+/dev/dm-3: LBA, LBA48, DCO support
+/dev/dm-3: size       177348608 sectors
+/dev/dm-3: user_max   488397168 sectors
+/dev/dm-3: dco        488397168 sectors
+/dev/dm-4: LBA, LBA48, DCO support
+/dev/dm-4: size       195313664 sectors
+/dev/dm-4: user_max   488397168 sectors
+/dev/dm-4: dco        488397168 sectors
+Hard disk list
+Disk /dev/sda - 250 GB / 232 GiB - CHS 30401 255 63, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+Disk /dev/mapper/fedora00-home - 90 GB / 84 GiB - 177348608 sectors, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+Disk /dev/mapper/fedora00-root - 53 GB / 50 GiB - 104857600 sectors, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+Disk /dev/mapper/fedora00-swap - 4026 MB / 3840 MiB - 7864320 sectors, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+Disk /dev/mapper/fedora-root00 - 100 GB / 93 GiB - 195313664 sectors, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+Disk /dev/mapper/fedora-swap - 1002 MB / 956 MiB - 1957888 sectors, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+Disk /dev/dm-0 - 53 GB / 50 GiB - 104857600 sectors, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+Disk /dev/dm-1 - 1002 MB / 956 MiB - 1957888 sectors, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+Disk /dev/dm-2 - 4026 MB / 3840 MiB - 7864320 sectors, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+Disk /dev/dm-3 - 90 GB / 84 GiB - 177348608 sectors, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+Disk /dev/dm-4 - 100 GB / 93 GiB - 195313664 sectors, sector size=512 - TOSHIBA MK2533GSG, S/N:12P8WHXZW, FW:QS001C
+
+
+TestDisk exited normally.
