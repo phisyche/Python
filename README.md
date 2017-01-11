@@ -1,3 +1,3 @@
-# Python-Sims
+# Python-Simulatons
 
-All my python endevours codified!
+Code snippets for Physics, Finance, Engineering, Web development and Applied Mathematics.
